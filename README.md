@@ -2,7 +2,7 @@
 ### Ingeniero en Informática (e) | Full-Stack & Backend Developer
 
 💻 Desarrollador de software enfocado en construir arquitecturas escalables, limpias y orientadas a resolver problemas reales.  
-🏥 Experiencia comprobable diseñando y desplegando sistemas en producción para el sector salud (**Hospital Regional FRZ*).  
+🏥 Experiencia comprobable diseñando y desplegando sistemas en producción para el sector salud (**Hospital Regional FRZ**).  
 🎯 Actualmente finalizando mi Proyecto de Título (Dic 2026) y en búsqueda activa de mi primera oportunidad laboral como **Backend / Full-Stack Developer**.
 
 ---
