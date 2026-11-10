@@ -46,8 +46,8 @@
 | :--- | :--- | :--- | :--- |
 | 🏥 **Sistema RAD** *(Hospital Regional)* | Sistema Integral de Relación Asistencial Docente desplegado en el hospital. [📰 Ver nota en prensa](https://www.elrancaguino.cl/2026/11/09/democracia-voces-regionales/) | `Next.js 16` `MariaDB` `Prisma` `Better Auth` `Tailwind` `Zod` | ✅ En Producción |
 | 🔬 **Sitmed** *(Proyecto de Título)* | Sistema Integral de Esterilización Médica para control y trazabilidad quirúrgica hospitalaria. | `Next.js 16` `TypeScript` `PostgreSQL` `Prisma` `Drizzle` | 🔄 Fase Final |
-| 📦 **[koi-nexus-core](https://github.com/koitito/koi-nexus-core)** | Plataforma B2B de trazabilidad logística, auditoría inmutable y protección de API. | `Next.js` `TypeScript` `Drizzle ORM` `PostgreSQL` `Redis` | 🌐 Público |
-| 🗃️ **[api-inventario](https://github.com/koitito/api-inventario)** | API RESTful estructurada para el control y gestión de inventarios. | `TypeScript` `Node.js` | 🌐 Público |
+| 📦 **[koi-nexus-core](https://github.com/koitito/koi-nexus-core)** | Plataforma B2B de trazabilidad logística, auditoría inmutable y protección de API. | `Next.js` `TypeScript` `Drizzle ORM` `PostgreSQL` `Redis` | 🌐 Privado |
+| 🗃️ **[api-inventario](https://github.com/koitito/api-inventario)** | API RESTful estructurada para el control y gestión de inventarios. | `TypeScript` `Node.js` | 🌐 Privado |
 
 ---
 
