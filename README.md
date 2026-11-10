@@ -16,7 +16,7 @@
 ---
 
 ### 🚀 Proyectos Destacados
-* 🏥 **RAD(Proyecto de Título):** Sistema Integral de Relacion Asistencial Docente (Next.js 16, App Router, Server Components, MariaDB con Prisma ORM,  Better-Auth, Tailwind CSS y shadcn/ui, ZOD).
+* 🏥 **RAD(Proyecto de mi Proceso de Practica):** Sistema Integral de Relacion Asistencial Docente (Next.js 16, App Router, Server Components, MariaDB con Prisma ORM,  Better-Auth, Tailwind CSS y shadcn/ui, ZOD).
 * 🏥 **Sitmed (Proyecto de Título):** Sistema Integral de Esterilización Médica para trazabilidad hospitalaria (Next.js 16, TypeScript, PostgreSQL, Prisma/Drizzle).
 * 📦 **[koi-nexus-core](https://github.com/koitito/koi-nexus-core):** Plataforma B2B de trazabilidad logística, auditoría inmutable y protección de API (Next.js, TypeScript, Drizzle ORM, PostgreSQL, Redis).
 * 🗃️ **[api-inventario](https://github.com/koitito/api-inventario):** API de gestión de inventario desarrollada en TypeScript.
