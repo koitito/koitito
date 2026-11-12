@@ -1,4 +1,4 @@
-# ¡Hola! Soy Matías Alfaro 👋
+# ¡Hola! Soy Matías 🐧
 ### Ingeniero en Informática (e) | Full-Stack & Backend Developer
 
 💻 Desarrollador de software enfocado en construir arquitecturas escalables, limpias y orientadas a resolver problemas reales.  
